@@ -1,0 +1,2 @@
+This is my first GitHub project.
+I am an ECE student learning GitHub
