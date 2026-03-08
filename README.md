@@ -21,3 +21,23 @@ Author
 
 Manisha K
 B.E Electronics and Communication Engineering (ECE)
+
+## Simulation Results
+
+### Satellite Network Topology
+![Topology](satellite_network_topology.png)
+
+### Propagation Delay
+![Delay](propagation_delay_graph.png)
+
+### Throughput
+![Throughput](throughput_graph.png)
+
+### Packet Loss
+![Packet Loss](packet_loss_graph.png)
+
+### Network Reliability
+![Reliability](network_reliability_graph.png)
+
+### Bit Error Rate
+![BER](ber_graph.png)
