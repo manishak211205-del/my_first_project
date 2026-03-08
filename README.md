@@ -24,14 +24,14 @@ B.E Electronics and Communication Engineering (ECE)
 
 ## Simulation Results
 
-![Network Topology](output/satellite_network_topology.png)
+![Satellite Network Topology](output/satellite_network_topology.png)
 
-![Propagation Delay](output/propagation_delay_graph.png)
+![Propagation Delay Graph](output/propagation_delay_graph.png)
 
-![Throughput](output/throughput_graph.png)
+![Throughput Graph](output/throughput_graph.png)
 
-![Packet Loss](output/packet_loss_graph.png)
+![Packet Loss Graph](output/packet_loss_graph.png)
 
-![Network Reliability](output/network_reliability_graph.png)
+![Network Reliability Graph](output/network_reliability_graph.png)
 
-![BER](output/ber_graph.png)
+![BER Graph](output/ber_graph.png)
